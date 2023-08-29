@@ -5,3 +5,6 @@ https://colab.research.google.com/drive/190giciNORn30BiWq_bk731FWj7ctRYL7#scroll
 #PDF
 
 ![grafico cura](https://github.com/zoesabrina/grupo1_Animais_Peconhentos/assets/127903585/2307646c-6a64-4bfb-9a52-65319614f362)
+
+
+[texto1.pdf](https://github.com/zoesabrina/grupo1_Animais_Peconhentos/files/12459111/texto1.pdf)
